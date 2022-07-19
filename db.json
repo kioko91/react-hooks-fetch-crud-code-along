@@ -25,10 +25,16 @@
       "isInCart": false
     },
     {
-      "name": "Cookies",
+      "name": "Skittles",
       "category": "Dessert",
       "isInCart": false,
-      "id": 5
+      "id": 6
+    },
+    {
+      "name": "Dairy Fresh",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 7
     }
   ]
 }
